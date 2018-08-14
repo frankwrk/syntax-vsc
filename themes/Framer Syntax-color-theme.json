@@ -176,8 +176,8 @@
     "scrollbarSlider.background": "#333",
     "scrollbarSlider.hoverBackground": "#333",
 
-    "selection.background": "#333",
-
+    "selection.background": "#fff",
+    
     "sideBar.background": "#111",
     "sideBar.border": "#111",
     "sideBar.foreground": "#888",
